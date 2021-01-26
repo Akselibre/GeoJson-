@@ -7,9 +7,9 @@
         "marker-color": "#91ca9f",
         "marker-size": "medium",
         "marker-symbol": "bicycle",
-        "marque": "AddBike",
         "adresse": " 12 Avenue Joannès Masset, 69009 Lyon",
-        "pays": "France"
+        "pays": "France",
+        "marque": "AddBike"
       },
       "geometry": {
         "type": "Point",
@@ -25,9 +25,9 @@
         "marker-color": "#81d770",
         "marker-size": "medium",
         "marker-symbol": "bicycle",
-        "marque": "Urban Arrow ",
         "adresse": "Contactweg 26 1014 BH Amsterdam",
-        "pays": "Pays-Bas"
+        "pays": "Pays-Bas",
+        "marque": "Urban Arrow "
       },
       "geometry": {
         "type": "Point",
