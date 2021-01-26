@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#91ca9f",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marque": "AddBike",
+        "adresse": " 12 Avenue Joannès Masset, 69009 Lyon",
+        "pays": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8511505126953125,
+          45.75219336063106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#81d770",
+        "marker-size": "medium",
+        "marker-symbol": "bicycle",
+        "marque": "Urban Arrow ",
+        "adresse": "Contactweg 26 1014 BH Amsterdam",
+        "pays": "Pays-Bas"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.887542724609374,
+          52.36511830615023
+        ]
+      }
+    }
+  ]
+}
